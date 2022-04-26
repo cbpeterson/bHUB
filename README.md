@@ -25,6 +25,7 @@ Please cite both publications if you use this code. Thanks!
 
 ## OVERVIEW OF FILES 
 
+Start with the demo file run.m, which conducts the simulation experiments for an illustrative example in Kim et al. (2019)
 
 ## run.m
 Basic example of running MCMC sampler and generating results summaries on a simple setting with
@@ -43,6 +44,7 @@ Helper function for updating precision matrix and graph using a modified version
 ## calc_mrf_C.m
 Helper function for calculating normalizing constant
 
+Some additional helper functions are also provided.
 
 
-Start with the demo file run.m, which conducts the simulation experiments for an illustrative example in Kim et al (2018+)
+
